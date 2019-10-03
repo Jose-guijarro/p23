@@ -11,7 +11,9 @@ public class JavaApplication23 {
 
   
     public static void main(String[] args) {
-        // Escribe aui tu codigo.....
+       libro libro1 = new libro();
+       
+       System.out.println(libro1.toString());
     }
 
 }
